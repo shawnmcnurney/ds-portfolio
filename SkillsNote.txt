@@ -1,0 +1,40 @@
+Module 3 Skills Notes
+
+Jobs I looked at:
+1. Manufacturing AI & Automation Engineer (Mid-to-Senior, 5-10 years)
+2. Data Engineer I (Entry Level, 0-2 years)
+
+Posting 1: Manufacturing AI & Automation Engineer
+Required:
+- Turning manufacturing problems into automation solutions
+- Managing tech projects in a fast-paced environment
+- Working with other teams like Ops and Quality
+- Good written and verbal communication
+- Data-driven problem solving
+
+Preferred:
+- Lean manufacturing or Six Sigma
+- Deploying AI in enterprise environments
+- Background in semiconductor or precision manufacturing
+
+Posting 2: Data Engineer I
+Required:
+- Python and SQL
+- Knowing how to work with relational data, joins, and schemas
+- ETL processes
+- Basic software dev practices (version control and code reviews)
+- Communication skills
+
+Preferred:
+- Azure Databricks experience
+- Spark and Delta Lake
+- Using medallion architecture (bronze, silver, gold) for data transformations
+
+Shared skills:
+- Problem solving and analytical thinking
+- Written and verbal communication
+- Working across different teams
+- Basic engineering and CS foundation
+
+Reflection:
+What really stood out to me is that even though these jobs are at completely different levels (entry vs. senior) and different fields, they both lean heavily on communication. The specific tech stack obviously changes depending on the role—like Databricks versus general AI deployment—but both jobs require you to be able to analyze data, solve problems, and actually explain your work to other teams.
